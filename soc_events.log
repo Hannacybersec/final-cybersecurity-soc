@@ -1,0 +1,7 @@
+2026-10-24 09:10 LOGIN_FAILED user=admin ip=192.0.2.10
+2026-10-24 09:11 LOGIN_FAILED user=admin ip=192.0.2.10
+2026-10-24 09:12 LOGIN_FAILED user=admin ip=192.0.2.10
+2026-10-24 09:20 ROLE_CHANGED user=alice old_role=user new_role=admin
+2026-10-24 09:25 SUSPICIOUS_ACCESS user=bob resource=admin_panel ip=192.0.2.50
+2026-10-24 09:30 LOGIN_SUCCESS user=carol ip=192.0.2.20
+2026-10-24 09:35 FILE_ACCESS user=alice resource=customer_data
